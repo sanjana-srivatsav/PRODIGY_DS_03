@@ -1,4 +1,4 @@
-# **🤖 Prodigy Infotech Internship – Task 3**
+# **🤖 Prodigy InfoTech Internship – Task 3**
 # **Customer Purchase Prediction using Decision Tree**
 
 ---
@@ -101,7 +101,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ### **2. Run the script or notebook**
 - python task3_decision_tree.py
-- OR
+  OR
 - task3_decision_tree.ipynb
 
 ---
@@ -117,4 +117,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 **Sanjana S M**
 
 **Prodigy Infotech**
+
 **Data Science Intern**
